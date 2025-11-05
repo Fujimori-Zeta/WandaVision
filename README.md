@@ -9,4 +9,4 @@ flag format: flag{...}
 
 Notes: You can use AI, online to solve this
 
-Hint: Inspect 32-bit data arrays and the routine that turns dwords into bytes
+
